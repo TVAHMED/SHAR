@@ -3,8 +3,6 @@
 import os,requests,json,time,re,random,sys,uuid,string,subprocess,zlib,platform
 import marshal
 import os,base64
-from os import system as clr
-os.system('espeak -a 300 " Wellcome,   To,  ,JAHID ,Tool,"
     import os,requests,json,time,re,random,sys,uuid,string,subprocess
     from string import *
     import bs4
