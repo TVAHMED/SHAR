@@ -77,10 +77,7 @@ logo = (f"""
 {W} [{R}+{W}]{W} WHATSAP {R}:{W} 03277025198
 {W} [{R}+{W}]{R} STATUS  {R}:{R} MAKING COMMOND 
 {W} [{R}+{W}]{R} VERSION {R}:{R} NHI BNAYA 
-{W} [{R}+{W}]{R}<{R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}>++<{R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}>{W}
-{W} [{R}+{W}]{W}            \033[1;41m\033[1;37m[WELLCOME TO \033[1;42m\033[1;37mAHMED TOOL]\x1b[0m
-{W} [{R}+{W}]{R}<{R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}>++<{R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}={W}={R}>""")
-#<<_________[ LINE ]_________>>#
+{W} [{R}+{W}]{W}            \033[1;41m\033[1;37m[WELLCOME TO \033[1;42m\033[1;37mAHMED TOOL]\x1b
 #<<_________[ LOOP ]_________>>#
 loop=0
 twf=[]
