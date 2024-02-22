@@ -2,8 +2,7 @@
 #<<_________[ IMPORTING MODULES ]_________>>#
 import os,requests,json,time,re,random,sys,uuid,string,subprocess,zlib,platform
 import marshal
-import os,base64
-    import os,requests,json,time,re,random,sys,uuid,string,subprocess
+import os,base
     from string import *
     import bs4
     from concurrent.futures import ThreadPoolExecutor as tred
