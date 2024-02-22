@@ -140,9 +140,7 @@ def Activate():
                 print(f'{W} [{R}+{W}] {W}FOR KEY ISSUE CONTACT WITH\n{W} [{R}+{W}] {R}AHMED SHAR BALOUCH     
                 print(f'{W} [{R}+{W}] {W}GET APPROVAL FOR USE ')
                 print(f'{W} [{R}+{W}] {W}SEND YOUR KEY TO ADMIN')
-                print(f'{W} [{R}+{W}] {W}AND GET APPROVAL')
-                print(f'{W} [{R}+{W}] {W}COPY THIS KEY ðŸ‘              
-                input(f'{W} [{R}+{W}] {W}PRESS ENTER')
+                print(f'{W} [{R}+{W}] {W}AND GET APPROVAL'
                 tks = ('Hi-%20RANA-Sir%20!%20-Please%20-Activate%20-My%20-Key%20-The%20-Key%20-Is%20:%20'+k)
                 os.system('am start https://wa.me/+923277025198?text='+tks)
                 Activate()
