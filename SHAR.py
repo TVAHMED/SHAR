@@ -4,7 +4,6 @@ import os,requests,json,time,re,random,sys,uuid,string,subprocess,zlib,platform
 import marshal
 import os,base64
 from os import system as clr
-print('\n\033[0;97m[+]\033[1;32m WELLCOME TO JAHID TOOL ðŸŒ·...')
 os.system('espeak -a 300 " Wellcome,   To,  ,JAHID ,Tool,"')
 try:
     import os,requests,json,time,re,random,sys,uuid,string,subprocess
