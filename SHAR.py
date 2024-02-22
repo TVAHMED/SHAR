@@ -128,10 +128,8 @@ def Activate():
                 clear()
                 os.system('espeak -a 300 " Wellcome, To,   Paid,  ,Menu,"')
                 os.system('espeak -a 300 " This, Tool,   is,  ,Paid,"')
-                print(f'{W} [{W}+{W}] {W}{R}           YOUR KEY IS NOT ACTIVE')
-                line() 
-                print(f"{W} [{R}+{W}]                  {G}PAID  MENU{W}")
-                line()
+                print(f'{W} [{W}+{W}] {W}{R}           YOUR KEY IS NOT ACTIVE'
+                print(f"{W} [{R}+{W}]                  {G}PAID  MENU{W}
                 print(f'{W} [{R}+{W}] {W}FOR 15 DAYS {R}400 PKR ')
                 print(f'{W} [{R}+{W}] {W}FOR 30 DAYS {R}700 PKR')
                 print(f'{W} [{R}+{W}] {W} JAZZCASH== {R}03277025198 ')
@@ -143,8 +141,7 @@ def Activate():
                 print(f'{W} [{R}+{W}] {W}GET APPROVAL FOR USE ')
                 print(f'{W} [{R}+{W}] {W}SEND YOUR KEY TO ADMIN')
                 print(f'{W} [{R}+{W}] {W}AND GET APPROVAL')
-                print(f'{W} [{R}+{W}] {W}COPY THIS KEY ðŸ‘‡')
-                line()               
+                print(f'{W} [{R}+{W}] {W}COPY THIS KEY ðŸ‘        
                 print(f"{W} [{R}+{W}] {W}YOUR KEY :\x1             
                 input(f'{W} [{R}+{W}] {W}PRESS ENTER')
                 tks = ('Hi-%20RANA-Sir%20!%20-Please%20-Activate%20-My%20-Key%20-The%20-Key%20-Is%20:%20'+k)
@@ -173,9 +170,7 @@ def menu():
 			print(f"{W} [{R}5{W}] {W}CUT USED LINKS FROM FILE")
 			print(f"{W} [{R}6{W}] {W}REMOVE DOUBLE LINKS FROM FILE ")
 			print(f"{W} [{R}7{W}] {W}UNBLOCK YOUR IP ADRESS TRY TO UNLOCK")
-			print(f"{W} [{R}0{W}] {R}EXIT FROM RANA TOOL {W}[{R}X{W}] {W}")
-			line()
-			line()
+			print(f"{W} [{R}0{W}] {R}EXIT FROM RANA TOol
 			xd=input(f'{W} [{R}+{W}] CHOSE: ')
 			if xd in ['1','01']:
 				clear()
